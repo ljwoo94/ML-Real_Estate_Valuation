@@ -1,6 +1,6 @@
 # ML-Real_Estate_Valuation
 
-Real Estate Valuation prediction by using Kernel Ridge Regression model.
+Real Estate Valuation prediction by using Kernel Ridge Regression model.<br>
 A project to accomplish Assignment2 of Machine Learning course in Yonsei University
 
 Used Data Set:
